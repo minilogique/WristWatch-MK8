@@ -6,7 +6,7 @@ WristWatch extruder with MK8 filament gear.
 
 Comparison between BMG teeth and MK8 teeth that grip the filament. Also 0.5mm smaller diameter for MK8 at the filament path measured from the tips of the teeth.
 
-![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/IMG_5759.jpg)
+![alt text](https://github.com/minilogique/WristWatch-MK8/blob/main/images/IMG_5759.JPG)
 
 Look it push 95A TPU at 250C at 41mm3/s without an issue at https://www.youtube.com/shorts/knSDY8lV37g
 
