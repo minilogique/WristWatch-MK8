@@ -17,24 +17,22 @@ Assembly goes just like with any BMG gearset and any WristWatch extruder, just t
 Use threadlocker where needed. Be wary that it's far for perfectly centered like Bondtech or FYSETC billet gears, however it comes in wayyyy cheaper compared to both offerings (16+€ and they include idler gear aswell, just the main gear with shaft cannot be purchased separately, only comes as a set).
 
 
-50T MK8 Specific BOM:
--50T reduction gear for Sherpa/WW/CW/Hex with 5x28mm shaft (about 5.5€)
--MK8 drive gear for 1.75mm filament (2.7€ single or about 3€/5pc (about 0.60€/pc) if you can find like that)
--2x MR85 smooth bearing without and edges etc (4.7€/10pc or about 0.50€ per piece) and a flathead M3x16 bolt and one tiny radius M3 washer
-
+> [!BOM]
+> 50T reduction gear for Sherpa/WW/CW/Hex with 5x28mm shaft (about 5.5€)
+> MK8 drive gear for 1.75mm filament (2.7€ single or about 3€/5pc (about 0.60€/pc) if you can find like that)
+> 2x MR85 smooth bearing without and edges etc (4.7€/10pc or about 0.50€ per piece) and a flathead M3x16 bolt and one tiny radius M3 washer
 Main hardware (same as for A4T WW BMG/RIDGA/IDGA)
--2 M3 thin square nuts
--2 M3x20 
--1 M3x12 
--1 M3x16
--1 M3x25
--1 M3 thin washer
--1 extruder spring
-
+> 2 M3 thin square nuts
+> 2 M3x20 
+> 1 M3x12 
+> 1 M3x16
+> 1 M3x25
+> 1 M3 thin washer
+> 1 extruder spring
 For smooth idler
--1 685-2RS bearing
--1 flathead M3x16
--1 M3 thin washer
+> 1 685-2RS bearing
+> 1 flathead M3x16
+> 1 M3 thin washer
 
 
 Prices for the main drive gear parts with shipping are about 7€ making it less than half what others cost. Now why shouldn't you get the BMG clones instead for a bit extra and be done with it? Well, those are actually larger in diameter when measured the filament drive radiuses and also eccentric which means even more deviation in filament drive radius. Look at the second picture where I have BMG next to MK8, both are meant for 1.75mm filament. Billet versions are at least 14€ or twice the price, but usually closer to 20€.
