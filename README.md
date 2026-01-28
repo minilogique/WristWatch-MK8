@@ -16,8 +16,7 @@ Assembly goes just like with any BMG gearset and any WristWatch extruder, just t
 
 Use threadlocker where needed. Be wary that it's far for perfectly centered like Bondtech or FYSETC billet gears, however it comes in wayyyy cheaper compared to both offerings (16+€ and they include idler gear aswell, just the main gear with shaft cannot be purchased separately, only comes as a set).
 
-
-> [!BOM]
+ [!BOM]
 > 50T reduction gear for Sherpa/WW/CW/Hex with 5x28mm shaft (about 5.5€)
 > MK8 drive gear for 1.75mm filament (2.7€ single or about 3€/5pc (about 0.60€/pc) if you can find like that)
 > 2x MR85 smooth bearing without and edges etc (4.7€/10pc or about 0.50€ per piece) and a flathead M3x16 bolt and one tiny radius M3 washer
