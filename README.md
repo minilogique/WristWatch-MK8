@@ -38,8 +38,8 @@ MK8 gears are not perfectly centered like Bondtech/FYSETC billet gears, but they
 | Item | Notes | Approx. Price |
 |------|--------|----------------|
 | 50T reduction gear (Sherpa/WW/CW/Hex) | 5×28 mm shaft | ~5.5 € |
-| MK8 drive gear (1.75 mm) | 2.7 € single, or ~3 €/5 pcs (~0.60 €/pc) |
-| 2× MR85 smooth bearings | Smooth type, no edges | ~4.7 €/10 pcs (~0.50 €/pc) |
+| MK8 drive gear (1.75 mm) | | 2.7 € single, or ~3 €/5 pcs (~0.60 €/pc)
+| 2× MR85 smooth bearings | Smooth type, no edges | | ~4.7 €/10 pcs (~0.50 €/pc)
 | 1× M3×16 flathead bolt | For bearing stack | — |
 | 1× small-radius M3 washer | — | — |
 
