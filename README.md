@@ -1,7 +1,7 @@
 # WristWatch Extruder with MK8 Filament Gear
 
-![Extruder Image 1](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/2.png)
-![Extruder Image 2](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/1.png)
+![Extruder Image 1](https://github.com/minilogique/WristWatch-MK8/blob/main/images/1.png)
+![Extruder Image 2](https://github.com/minilogique/WristWatch-MK8/blob/main/images/2.png)
 
 Comparison between BMG teeth and MK8 teeth that grip the filament.  
 MK8 has a **0.5 mm smaller effective diameter** at the filament path (measured from tooth tips).
