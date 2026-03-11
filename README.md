@@ -11,7 +11,7 @@ MK8 has a **0.5 mm smaller effective diameter** at the filament path (measured
 Demonstration of pushing **95A TPU at 250 °C at 41 mm³/s**:  
 https://www.youtube.com/shorts/knSDY8lV37g
 
-So far after few hundred hours it has proven to be reliable and strong extruder for following materials: PETG, PLA, PPA-CF, ASA-GF, ABS+, TPU 95A, TPU 90A, PA6-GF25, PETG-CF, PLA woodfill, ASA-CF, PLA luminescent. 
+So far after few hundred hours it has proven to be reliable and strong extruder for following materials: PETG, PLA, PPA-CF, ASA-GF, ABS+, TPU 95A, TPU 90A, PA6-GF25, PETG-CF, PLA woodfill, ASA-CF, PLA luminescent, PC-ABS, PC-PBT-GF20. 
 
 ---
 
