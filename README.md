@@ -23,8 +23,7 @@ The **IDGA smooth bearing idler** can be reused as-is.
 
 **Drive gear installation:**
 
-(https://github.com/minilogique/WristWatch-MK8/blob/main/images/2.png)
-
+![Extruder Image 3](https://github.com/minilogique/WristWatch-MK8/blob/main/images/3.JPG)
 1. Leave the drive gear loose on the shaft.  
 2. Push filament through the extruder.  
 3. Wiggle the gear into correct alignment.  
