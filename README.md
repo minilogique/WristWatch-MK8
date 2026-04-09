@@ -81,7 +81,7 @@ MK8 gears are not perfectly centered like Bondtech/FYSETC billet gears, but they
 ### Rotation Distance
 
 - Original RIDGA: `rotation_distance: 4.45`  
-- MK8 setup: `rotation_distance: 4.05`  
+- MK8 setup: `rotation_distance: 4.0`  
 
 This ~10% reduction increases torque by roughly the same amount.
 
