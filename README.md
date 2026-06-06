@@ -6,7 +6,7 @@
 Comparison between BMG teeth and MK8 teeth that grip the filament.  
 MK8 has a **0.5 mm smaller effective diameter** at the filament path (measured from tooth tips).
 
-![Teeth Comparison](https://github.com/minilogique/WristWatch-MK8/blob/main/images/IMG_5759.JPG)
+![Teeth Comparison](https://github.com/minilogique/WristWatch-MK8/blob/main/images/mk8%20vs%20idga.JPG)
 
 Demonstration of pushing **95A TPU at 250 °C at 41 mm³/s**:  
 https://www.youtube.com/shorts/knSDY8lV37g
