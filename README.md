@@ -32,6 +32,8 @@ The **IDGA smooth bearing idler** can be reused as-is.
 Use threadlocker where needed.  
 MK8 gears are not perfectly centered like Bondtech/FYSETC billet gears, but they are dramatically cheaper.
 
+ATTENTION - IF THE BEARING FOR THE SHAFT GETS MISALIGNED/SHIFTED AWAY FROM THE FILAMENT PATH, IT WILL CAUSE EXTRUSION ISSUES. MAKE SURE THE BEARING IS CENTERED WHEN INSTALLING AND CHECK IT WHEN DOING MAINTENANCE TO THE PRINTER!
+![Extruder Image 3](https://github.com/minilogique/WristWatch-MK8/blob/main/images/laager.png)
 ---
 
 # Bill of Materials (BOM)
